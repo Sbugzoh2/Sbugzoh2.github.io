@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "za.co.malita.siyahamba",
+      "sha256_cert_fingerprints": [
+        "58:77:52:1A:7B:32:FC:AE:67:63:2A:7B:12:23:93:47:D8:9B:FB:82:92:1D:45:DF:16:07:6D:4D:F8:10:2B:44"
+      ]
+    }
+  }
+]
